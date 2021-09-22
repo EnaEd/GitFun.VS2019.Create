@@ -2,11 +2,11 @@
 
 namespace GitFun.VS2019.Create
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!!!!!");
         }
     }
 }
